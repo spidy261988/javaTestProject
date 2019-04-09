@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Collections {
 	
-	private final static int initial_capacity = 5;
+	private final static int initial_capacity = 10;
 	
 	public static void main(String[] args) {
 		
